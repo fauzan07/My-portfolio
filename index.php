@@ -55,17 +55,12 @@
           <div class="row justify-content-center py-4">
               <div class="col-md-4 col-lg-3 pt-4">
               <div class="code-logo border rounded shadow p-4 text-center bg-white">
-              <img src="images/html-logo.png" width="200" alt="logo">
+              <img src="images/react-logo.png" width="200" alt="logo">
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
                   <div class="code-logo border rounded shadow p-4 text-center bg-white">
-                <img src="images/css-logo.png" width="140" alt="logo">
-              </div>
-              </div>
-              <div class="col-md-4 col-lg-3 pt-4">
-                  <div class="code-logo border rounded shadow p-4 text-center bg-white">
-                <img src="images/sass-logo.png" width="200" alt="logo">
+                <img src="images/js-logo.png" width="200" alt="logo">
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
@@ -75,12 +70,17 @@
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
                   <div class="code-logo border rounded shadow p-4 text-center bg-white">
-                <img src="images/js-logo.png" width="200" alt="logo">
+                <img src="images/sass-logo.png" width="200" alt="logo">
+              </div>
+              </div>
+              <div class="col-md-4 col-lg-3 pt-4">
+                  <div class="code-logo border rounded shadow p-4 text-center bg-white">
+                <img src="images/html-logo.png" width="200" alt="logo">
               </div>
             </div>              
             <div class="col-md-4 col-lg-3 pt-4">
                   <div class="code-logo border rounded shadow p-4 text-center bg-white">
-                <img src="images/react-logo.png" width="200" alt="logo">
+                <img src="images/css-logo.png" width="140" alt="logo">
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
