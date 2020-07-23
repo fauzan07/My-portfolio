@@ -28,8 +28,8 @@
                 <h1><-<span class="code-color">About Me</span>-/></h1>
               </div>
           </div>
-          <div class="row justify-content-center py-5">
-          <div class="col-md-12  col-lg-5 text-center pt-4">
+          <div class="row justify-content-center py-4">
+          <div class="col-md-12  col-lg-5 text-center pt-4 about-img">
                 <img src="images/mypic1.jpg" alt="Responsive image" width="380" height="500">
               </div>
               <div class="col-md-12 offset-lg-1 col-lg-6 pt-4">
@@ -52,7 +52,7 @@
                 <h1><-<span class="code-color">My Skills</span>-/></h1>
               </div>
           </div>
-          <div class="row justify-content-center py-5">
+          <div class="row justify-content-center py-4">
               <div class="col-md-4 col-lg-3 pt-4">
               <div class="code-logo border rounded shadow p-4 text-center bg-white">
               <img src="images/html-logo.png" width="200" alt="logo">
@@ -108,7 +108,7 @@
           </div>
         <div class="row">
             <div class="col-md-12">
-                <div class="mt-5">
+                <div class="mt-4">
                     <hr>
                 </div>
                 <div class="middle-nav py-4">
