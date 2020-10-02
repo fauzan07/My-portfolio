@@ -111,8 +111,8 @@
                 <div class="mt-4">
                     <hr>
                 </div>
-                <div class="middle-nav py-4">
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                <div class="middle-nav py-2">
+                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" id="pills-Details-tab" data-toggle="pill" href="#pills-Details"
                                 role="tab" aria-controls="pills-home" aria-selected="true">All Projects</a>
@@ -137,7 +137,16 @@
                         <div class="row">
 		                <div class="col-md-12 col-lg-12">
                         <ul class="row list-unstyled">
-				        	<li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://netflix-clone1.herokuapp.com/" target="blank">
+                                    <img  src="images/netflix-img.png" class="img-fluid img-thumbnail" alt="netflix-clone"  />
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+
+				        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://fauzan07.github.io/zomato-replica/" target="blank">
                                     <img  src="images/zomato.png" class="img-fluid img-thumbnail" alt="zomato-replica"  />
@@ -145,8 +154,17 @@
                                     </a>
 	        		            </div>
                             </li>
+
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://newseedkaro.herokuapp.com/" target="blank">
+                                    <img  src="images/seedkro-img.png" class="img-fluid img-thumbnail" alt="seedkro"  />
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
                             
-	      		        	<li class="col-md-6 col-lg-4 my-2">
+	      		        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://stack-web.herokuapp.com/" target="blank">
                                     <img  src="images/stack.png" class="img-fluid img-thumbnail" alt="stack-landing" />
@@ -155,7 +173,7 @@
 	        		            </div>
                             </li>
                             
-	      		        	<li class="col-md-6 col-lg-4 my-2">
+	      		        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://bonanza-web.herokuapp.com/" target="blank">
                                     <img  src="images/bonanza.png" class="img-fluid img-thumbnail" alt="bonanza-landing" />	        			
@@ -164,7 +182,7 @@
 	        		            </div>
                             </li>
 
-                            <li class="col-md-6 col-lg-4 my-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://falke-enterprices.herokuapp.com/" target="blank">
                                     <img  src="images/falke-entrprices.png" class="img-fluid img-thumbnail" alt="falke-enterprices"  />	        			
@@ -173,7 +191,7 @@
 	        		            </div>
                             </li>
                             
-	      		        	<li class="col-md-6 col-lg-4 my-4">
+	      		        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://kandi-web.herokuapp.com/" target="blank">
                                     <img  src="images/kandi.png" class="img-fluid img-thumbnail" alt="kandi"  />	        			
@@ -182,7 +200,7 @@
 	        		            </div>
                             </li>
                             
-                            <li class="col-md-6 col-lg-4 my-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://morgan-web.netlify.app" target="blank">
                                     <img  src="images/react-website.png" class="img-fluid img-thumbnail" alt="react-website"  />	        			
@@ -191,7 +209,7 @@
 	        		            </div>
                             </li>
                             
-                            <li class="col-md-6 col-lg-4 mt-2 mb-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://fauzan07.github.io/food-recipe-app/" target="blank">
                                     <img  src="images/recipe-app.png" class="img-fluid img-thumbnail" alt="recipe-app"  />	        			
@@ -200,7 +218,7 @@
 	        		            </div>
                             </li>
                             
-                            <li class="col-md-6 col-lg-4 mt-2 mb-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://weather-application1.netlify.app/" target="blank">
                                     <img  src="images/weather-app.png" class="img-fluid img-thumbnail" alt="weather-app"  />	        			
@@ -209,7 +227,7 @@
 	        		            </div>
                             </li>
 
-                            <li class="col-md-6 col-lg-4 mt-2 mb-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://react-crud-dashboard.netlify.app" target="blank">
                                     <img  src="images/react-crude.png" class="img-fluid img-thumbnail" alt="react-crud"  />	        			
@@ -217,8 +235,17 @@
                                     </a>
 	        		            </div>
                             </li>
+
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://react-ui-dashboard.netlify.app/" target="blank">
+                                    <img  src="images/react-dashboard.png" class="img-fluid img-thumbnail" alt="react-dashboard"  />	        			
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+	                    	</li>
                             
-                            <li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://financial-portfolio-tracker-app.netlify.app/" target="blank">
                                     <img  src="images/finantional-portfolio.png" class="img-fluid img-thumbnail" alt="finantional-protfolio"  />	        			
@@ -226,8 +253,8 @@
                                     </a>
 	        		            </div>
                             </li>
-                            
-                            <li class="col-md-6 col-lg-4 my-2">
+
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://pro-organizer-app.netlify.app/" target="blank">
                                     <img  src="images/pro-organizer.png" class="img-fluid img-thumbnail" alt="pro-organizer"  />	        			
@@ -236,7 +263,7 @@
 	        		            </div>
 	                    	</li>
 
-                            <li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow" id="lightgallery1">
                                     <a href="images/lead-db-login.png" >
                                     <a href="images/lead-db-view2.png" >
@@ -267,7 +294,16 @@
                        <div class="row">
 		                <div class="col-md-12 col-lg-12">
                         <ul class="row list-unstyled">
-				        	<li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://netflix-clone1.herokuapp.com/" target="blank">
+                                    <img  src="images/netflix-img.png" class="img-fluid img-thumbnail" alt="netflix-clone"  />
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+
+				        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://fauzan07.github.io/zomato-replica/" target="blank">
                                     <img  src="images/zomato.png" class="img-fluid img-thumbnail" alt="zomato-replica"  />
@@ -275,8 +311,17 @@
                                     </a>
 	        		            </div>
                             </li>
-                            
-	      		        	<li class="col-md-6 col-lg-4 my-2">
+
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://newseedkaro.herokuapp.com/" target="blank">
+                                    <img  src="images/seedkro-img.png" class="img-fluid img-thumbnail" alt="seedkro"  />
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+
+	      		        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://stack-web.herokuapp.com/" target="blank">
                                     <img  src="images/stack.png" class="img-fluid img-thumbnail" alt="stack-landing" />
@@ -285,7 +330,7 @@
 	        		            </div>
                             </li>
                             
-	      		        	<li class="col-md-6 col-lg-4 my-2">
+	      		        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://bonanza-web.herokuapp.com/" target="blank">
                                     <img  src="images/bonanza.png" class="img-fluid img-thumbnail" alt="bonanza-landing" />	        			
@@ -294,7 +339,7 @@
 	        		            </div>
                             </li>
 
-                            <li class="col-md-6 col-lg-4 my-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://falke-enterprices.herokuapp.com/" target="blank">
                                     <img  src="images/falke-entrprices.png" class="img-fluid img-thumbnail" alt="falke-enterprices"  />	        			
@@ -303,7 +348,7 @@
 	        		            </div>
                             </li>
                             
-	      		        	<li class="col-md-6 col-lg-4 my-4">
+	      		        	<li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://kandi-web.herokuapp.com/" target="blank">
                                     <img  src="images/kandi.png" class="img-fluid img-thumbnail" alt="kandi"  />	        			
@@ -322,7 +367,7 @@
 		                <div class="col-md-12 col-lg-12">
                         <ul class="row list-unstyled">
                             
-                            <li class="col-md-6 col-lg-4 mt-2 mb-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://morgan-web.netlify.app" target="blank">
                                     <img  src="images/react-website.png" class="img-fluid img-thumbnail" alt="react-website"  />	        			
@@ -331,7 +376,7 @@
 	        		            </div>
                             </li>
                             
-                            <li class="col-md-6 col-lg-4 mt-2 mb-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://fauzan07.github.io/food-recipe-app/" target="blank">
                                     <img  src="images/recipe-app.png" class="img-fluid img-thumbnail" alt="recipe-app"  />	        			
@@ -340,7 +385,7 @@
 	        		            </div>
                             </li>
                             
-                            <li class="col-md-6 col-lg-4 mt-2 mb-4">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://weather-application1.netlify.app/" target="blank">
                                     <img  src="images/weather-app.png" class="img-fluid img-thumbnail" alt="weather-app"  />	        			
@@ -349,7 +394,7 @@
 	        		            </div>
                             </li>
 
-                            <li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://react-crud-dashboard.netlify.app" target="blank">
                                     <img  src="images/react-crude.png" class="img-fluid img-thumbnail" alt="react-crud"  />	        			
@@ -357,8 +402,17 @@
                                     </a>
 	        		            </div>
                             </li>
+
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://react-ui-dashboard.netlify.app/" target="blank">
+                                    <img  src="images/react-dashboard.png" class="img-fluid img-thumbnail" alt="react-dashboard"  />	        			
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+	                    	</li>
                             
-                            <li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://financial-portfolio-tracker-app.netlify.app/" target="blank">
                                     <img  src="images/finantional-portfolio.png" class="img-fluid img-thumbnail" alt="finantional-protfolio"  />	        			
@@ -367,7 +421,7 @@
 	        		            </div>
                             </li>
                             
-                            <li class="col-md-6 col-lg-4 my-2">
+                            <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://pro-organizer-app.netlify.app/" target="blank">
                                     <img  src="images/pro-organizer.png" class="img-fluid img-thumbnail" alt="pro-organizer"  />	        			
