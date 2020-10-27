@@ -199,11 +199,29 @@
                                     </a>
 	        		            </div>
                             </li>
-                            
+
                             <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
                                     <a href="https://morgan-web.netlify.app" target="blank">
                                     <img  src="images/react-website.png" class="img-fluid img-thumbnail" alt="react-website"  />	        			
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+                            
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://doctor-appoinment-app.netlify.app/" target="blank">
+                                    <img  src="images/dr-app.png" class="img-fluid img-thumbnail" alt="dr-app"  />	        			
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://webinar-invitation.herokuapp.com/" target="blank">
+                                    <img  src="images/webinar.png" class="img-fluid img-thumbnail" alt="webinar"  />	        			
                                     <div class="overlay rounded"></div>
                                     </a>
 	        		            </div>
@@ -238,8 +256,8 @@
 
                             <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
-                                    <a href="https://react-ui-dashboard.netlify.app/" target="blank">
-                                    <img  src="images/react-dashboard.png" class="img-fluid img-thumbnail" alt="react-dashboard"  />	        			
+                                    <a href="https://todo2-app.netlify.app/" target="blank">
+                                    <img  src="images/todo-app.png" class="img-fluid img-thumbnail" alt="todo-app"  />	        			
                                     <div class="overlay rounded"></div>
                                     </a>
 	        		            </div>
@@ -357,6 +375,15 @@
 	        		            </div>
                             </li>
 
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://webinar-invitation.herokuapp.com/" target="blank">
+                                    <img  src="images/webinar.png" class="img-fluid img-thumbnail" alt="dr-app"  />	        			
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+
                          </ul>
                         </div>
                         </div>
@@ -371,6 +398,15 @@
 	        		            <div class="shadow">
                                     <a href="https://morgan-web.netlify.app" target="blank">
                                     <img  src="images/react-website.png" class="img-fluid img-thumbnail" alt="react-website"  />	        			
+                                    <div class="overlay rounded"></div>
+                                    </a>
+	        		            </div>
+                            </li>
+
+                            <li class="col-md-6 col-lg-4 mt-4">
+	        		            <div class="shadow">
+                                    <a href="https://doctor-appoinment-app.netlify.app/" target="blank">
+                                    <img  src="images/dr-app.png" class="img-fluid img-thumbnail" alt="dr-app"  />	        			
                                     <div class="overlay rounded"></div>
                                     </a>
 	        		            </div>
@@ -405,8 +441,8 @@
 
                             <li class="col-md-6 col-lg-4 mt-4">
 	        		            <div class="shadow">
-                                    <a href="https://react-ui-dashboard.netlify.app/" target="blank">
-                                    <img  src="images/react-dashboard.png" class="img-fluid img-thumbnail" alt="react-dashboard"  />	        			
+                                    <a href="https://todo2-app.netlify.app/" target="blank">
+                                    <img  src="images/todo-app.png" class="img-fluid img-thumbnail" alt="tod-app"  />	        			
                                     <div class="overlay rounded"></div>
                                     </a>
 	        		            </div>
