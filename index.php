@@ -36,7 +36,7 @@
               <h5 class="pb-4">A Few Words About Me</h5>
                 <p>I am an experienced Full Stack Developer with a demonstrated history of working in the software industry. 
                     I have graduated as a Bachelor of Engineering in Electronics & telecommunication from Mumbai University. My strengths lie in Web development, front-end/back-end web, database/server management. I am also passionate about Drawing, Painting and photography.</p>
-                <a href="pdf/FauzanCv.pdf" class="main-button web-btn mt-4" download>Download Resume</a>
+                <a href="pdf/Fauzan-cv.pdf" class="main-button web-btn mt-4" download>Download Resume</a>
             </div>
             
           </div>
@@ -59,8 +59,9 @@
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
-                  <div class="code-logo border rounded shadow p-4 text-center bg-white">
-                <img src="images/js-logo.png" width="200" alt="logo">
+              <div class="code-logo border rounded shadow p-4 text-center bg-white">
+                <img src="images/firebase-logo.png" width="160" alt="logo">
+                <h3 class="firebase">Firebase</h3>
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
@@ -84,8 +85,8 @@
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
-                  <div class="code-logo border rounded shadow p-4 text-center bg-white">
-                <img src="images/sql-logo.png" width="200" alt="logo">
+              <div class="code-logo border rounded shadow p-4 text-center bg-white">
+                <img src="images/js-logo.png" width="200" alt="logo">
               </div>
               </div>
               <div class="col-md-4 col-lg-3 pt-4">
@@ -524,8 +525,7 @@
                 <li><a href="https://github.com/fauzan07" target="blank"><i class="text-dark fa fa-github fa-2x pl-5" aria-hidden="true"></i></a></li>
                 <li><a href="https://www.instagram.com/fauzii_1/" target="blank"><i class="text-insta fa fa-instagram fa-2x pl-5" aria-hidden="true"></i></a></li>            
                 <li><a href="https://twitter.com/Fauzan04648061" target="blank"><i class="text-info fa fa-twitter fa-2x pl-5" aria-hidden="true"></i></a></li>
-                <!-- <li><a href="https://www.linkedin.com/in/fauzan-falke-02a5a7181/" target="blank"><i class="text-primary fa fa-linkedin-square fa-2x pl-5" aria-hidden="true"></i></a></li> -->
-               
+                <li><a href="https://www.linkedin.com/in/fauzan-falke-02a5a7181/" target="blank"><i class="text-primary fa fa-linkedin-square fa-2x pl-5" aria-hidden="true"></i></a></li>  
             </ul>
             </div>
           </div>
